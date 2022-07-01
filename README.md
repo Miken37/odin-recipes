@@ -1,0 +1,1 @@
+First project for Odin Project after learning GIT and HTML basics. 
