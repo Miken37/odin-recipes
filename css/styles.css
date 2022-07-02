@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+h1, ul{
+    text-align: center;
+}
+.alert-text,
+.super-text {
+    color:red
+}
+
+#title {
+    background-color: burlywood;
+}
+
+p {
+    font-weight: 750;
+}
